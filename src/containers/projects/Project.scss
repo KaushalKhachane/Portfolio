@@ -31,9 +31,9 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (min-width: 400px) and (max-width: 600px) {
   .project-title {
-    font-size: 15px;
+    font-size: px;
     text-align: center;
   }
   .repo-cards-div-main {
